@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Form</title>
 </head>
 <body>
 	<form action="insert.jsp" method="post" onsubmit = "return formCheck();">
